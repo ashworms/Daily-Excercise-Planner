@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily Excercise Planner</string>
+
+    <string name="mainTitle">Today\'s Excercise Plan</string>
+    <string name="editString">Edit</string>
+    <string name="backString">Back</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_plan">EditPlanActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
